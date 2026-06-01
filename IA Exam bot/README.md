@@ -1,6 +1,6 @@
 # DHS Application Bot for IA Exam
 
-A comprehensive bot application for managing DHS applications and conducting IA (Information Assurance) examinations.
+A comprehensive bot application for managing DHS applications and conducting IA Interal Affairs examinations.
 
 ## Features
 
@@ -56,4 +56,4 @@ python -m pytest tests/
 
 ## License
 
-© DHS 2025
+© MIS 2026
